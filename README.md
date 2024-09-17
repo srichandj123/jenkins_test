@@ -26,7 +26,7 @@
   
 ### auth-service init
   * make request for the auth-service for setup roles and permissions.
-  * ``` POST /api/auth-service/roles-permissions-setup/init ```
+  * ``` POST /api/auth-service/roles-permissions-setup/init ```   
   
 ### run product-service
   * go inside to the product-service project folder
